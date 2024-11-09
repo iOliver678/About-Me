@@ -1,5 +1,8 @@
 ## 👋 Hello, I'm Oliver Majano!
 
+Feel Free to check my github, not all my projects were pushed to git since I am a late adopter, you can find most of them on here. 
+Below are the projects I deployed.
+
 I'm a sophomore Computer Science student at San Jose State University, navigating the tech world with a focus on building impactful projects and embracing challenges. My journey in tech started with an ambition to make a difference in my community, especially by providing resources and guidance to underrepresented students in STEM.
 
 ### 🚀 What I'm Working On
